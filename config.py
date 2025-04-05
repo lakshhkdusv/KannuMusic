@@ -19,7 +19,7 @@ MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 600))
 
 # Chat id of a group for logging bot's activities
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", -1002195645178))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", -1002578413389)
 
 # Get this value from @MissRose_Bot on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID", None))
@@ -39,8 +39,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/GOOGLE_MUSIC_UPDATE")
-SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/GOOGLE_MUSIC_SUPPORT")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/DPZ_CHANNEL_STYLISH_NAME")
+SUPPORT_GROUP = getenv("SUPPORT_GROUP", "https://t.me/+0qG_bXL8vhk4M2Jl")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
@@ -81,13 +81,13 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://envs.sh/rIV.jpg"
+    "START_IMG_URL", "https://envs.sh/c-z.jpg"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://envs.sh/rIV.jpg"
+    "PING_IMG_URL", "https://envs.sh/c-K.jpg"
 )
-PLAYLIST_IMG_URL = "https://envs.sh/rIV.jpg"
-STATS_IMG_URL = "https://envs.sh/rIV.jpg"
+PLAYLIST_IMG_URL = "https://envs.sh/yNj.jpg"
+STATS_IMG_URL = "https://envs.sh/c-G.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 TELEGRAM_VIDEO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 STREAM_IMG_URL = "https://te.legra.ph/file/bd995b032b6bd263e2cc9.jpg"
