@@ -22,7 +22,7 @@ from AviaxMusic.utils.inline import (
 )
 from AviaxMusic.utils.logger import play_logs
 from AviaxMusic.utils.stream.stream import stream
-from config import BANNED_USERS, lyrical AYU
+from config import BANNED_USERS, lyrical 
 
 
 @app.on_message(
