@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/lakshhkdusv/Munna2",
+    "https://github.com/lakshhkdusv/KannuMusic",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -91,7 +91,7 @@ START_IMG_URL = getenv(
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://graph.org/file/13d63af1055a60757b978-019954521359a71b41.jpg"
 )
-PLAYLIST_IMG_URL = "https://envs.sh/yNj.jpg"
+PLAYLIST_IMG_URL = "https://envs.sh/h2K.jpg"
 STATS_IMG_URL = "https://graph.org/file/6e484162ff273e77f08ca-79e8d83aae057f670c.jpg"
 TELEGRAM_AUDIO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
 TELEGRAM_VIDEO_URL = "https://graph.org//file/2f7debf856695e0ef0607.png"
